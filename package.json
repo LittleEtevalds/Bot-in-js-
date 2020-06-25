@@ -1,0 +1,15 @@
+"name": "etevaldo",
+  "version": "1.0.0",
+  "description": "Sou um bot criado por LittleEtevaldo! Digite .help para descobrir mais sobre meus comandos!",
+  "main": "Bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Bot.js"
+  },
+  "author": "LittleEtevaldo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "nodemon": "^2.0.4"
+  }
+}
